@@ -7,3 +7,11 @@ var3="aryan"
 print(id(var3))
 var4=10+3j
 print(id(var4))
+a=""" hey my name is aaryan kushwah i am from cse14
+i am from mathura """
+print(a)
+b=" hey my name is aaryan kushwah i am from cse14"
+print(b)
+print(len(b))
+print(a[3])
+print("my" in a)
