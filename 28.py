@@ -1,0 +1,9 @@
+var1=1
+print(var1)
+print(id(var1))
+var2=10.8
+print(id(var2))
+var3="aryan"
+print(id(var3))
+var4=10+3j
+print(id(var4))
